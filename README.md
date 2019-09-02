@@ -26,6 +26,29 @@ Religion 628
 Total 4489
 Table 1: News Documents
 
+## Models Used:
+
+### Feature Selection: Binary Particle Swarm Optimisation Techniques (B-PSO)
+Feature selection is used to find out optimal set of “feature” which can be further useful in segregation of topics. Using binary particle swarm optimisation obtained an optimal subset of features with low dimensionality in feature space.
+
+### Models Applied
+
+#### Classfication Models: 
+1. Multi-nomial Naive Bayes
+2. Multi-layer Perceptron
+
+        MLP Parameters
+
+        No. of layers 3
+        No. of hidden layers 1
+        No. of neurons in the hidden layer 1024
+        No. of neurons in the output layer 512
+        No. of epochs 10
+        Activation function sigmoid
+        Optimisation function adam
+
+
+
 ## Pre-requisits
 
 System Requirements
