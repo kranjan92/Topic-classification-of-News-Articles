@@ -4,7 +4,7 @@ Topic Classification: Hybrid Feature selection model using BPSO-MLP
 ## Why and What is Topic Classfication ?
 
 The huge amounts of information assets exist in the form of unstructured text corpuses such as scientific articles, healthcare records, space problem reports and news feed corpora. Among these, the most popular use case in organising and recommending similar news articles based on the specific categories (topic areas) on a news website. Currently, a news website which provides a variety of news articles a day to users on a broad range of topic areas. To increase the user engagement and time span on the site, maybe one of the solutions is to recommend similar articles in an organised way. So, one must provide a way through to navigate and process all these corpora of reports for identifying the most popular topics and trending themes to deliver a prescriptive analytical result that adds a value to the business. But
-this is all often poorly exploited. In order to achieve an effective classification model in processing and analysing the textual data by identifying relevant text features while reducing the access time.
+this is all often poorly exploited. In order to achieve an effective classification model in processing and analysing the textual data by identifying relevant text features while reducing the access time which requires Topic classification models.
 
 ## Download Data set and Dataset Lineage 
 
